@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KakkoDelete", "KakkoDelete\KakkoDelete.pyproj", "{0E959C55-C069-429B-9E23-BB5228635103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E959C55-C069-429B-9E23-BB5228635103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E959C55-C069-429B-9E23-BB5228635103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB77C7A-7242-43BF-8DFD-1778718A5F6B}
+	EndGlobalSection
+EndGlobal

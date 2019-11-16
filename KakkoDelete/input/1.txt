@@ -1,0 +1,13 @@
+dfd(){
+	buta();
+	tori(){
+		usi();
+	}
+}
+
+ggnhjjty(){
+	buta();
+	tori(){
+		usi();
+	}
+}
